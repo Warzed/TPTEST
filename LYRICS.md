@@ -8,7 +8,7 @@ L'École du micro d'argent\
 L'École du micro d'argent\
 L'École du micro d'argent\
 L'École du micro d'argent\
-L'École du micro d'argent\
+L'École du micro d'argent
 
 ### Shurik'n
 Assis en tailleur, voilà des heures queje médite\
@@ -28,20 +28,20 @@ Je sème la terreur quand je frappe d'estoc et de taille\
 Je sens l'esprit du félinm'envahir\
 À ce stadeseul le sang me procure du plaisir\
 Mes griffes gravent les couleurs de l'Empire\
-Plus grand que celui d'Alexandre dont je suis le défenseur\
+Plus grand que celui d'Alexandre dont je suis le défenseur
 
 ### Chœur 
 L'École du micro d'argent\
 L'École du micro d'argent\
 Je représente\
-L'École du micro d'argent\ 
-L'École du micro d'argent\
-Je représente\
 L'École du micro d'argent\
 L'École du micro d'argent\
 Je représente\
 L'École du micro d'argent\
 L'École du micro d'argent\
+Je représente\
+L'École du micro d'argent\
+L'École du micro d'argent
 
 
 ### Akhenaton
@@ -57,13 +57,13 @@ Prête à mourir, à lagloire de mon étendard\
 J'ai rassemblé la clique des valeureux guerriers barbares\
 Dare-dare j'ai envoyé paître les lettres\
 Pourchassé les traîtres, selon l'enseignement de mes maîtres\
-Sansrelâche, je crache des cendres\
+Sans relâche, je crache des cendres\
 Et poursuivrai les massacres jusqu'àce que le nom d'AKH soit légende\
 Car le soldat, guerrier alpha est adroit\
 Et lance l'assaut là, sur l'école du micro en bois\
 La bataille a débuté, tiensCe coup vient d'un expertà la guerre\
 Vaillant praticien des arts martiensDélégué pour mettre un terme à ces horreurs\
-Tel est mon labeur, tu sais de qui je défends l'honneur\
+Tel est mon labeur, tu sais de qui je défends l'honneur
 
 ### Chœur 
 L'École du micro d'argent\
@@ -76,4 +76,4 @@ L'École du micro d'argent\
 L'École du micro d'argent\
 Je représente\
 L'École du micro d'argent\
-L'École du micro d'argent\
+L'École du micro d'argent
